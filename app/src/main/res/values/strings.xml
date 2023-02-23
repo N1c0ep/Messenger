@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Messenger</string>
+    <string name="enviar">Enviar 1</string>
+    <string name="enviar2">Enviar 2</string>
+    <string name="hint">Mensaje para 1</string>
+    <string name="hint2">Mensaje para 2</string>
+
+</resources>
